@@ -1,12 +1,6 @@
-import './App.css';
-import Resume from './Resume';
-
-
 function App() {
     return (
-        <div className="App">
-            <Resume/>
-        </div>
+      <h1>Example 02 - Client-Side Hello World!</h1>
     );
 }
 
