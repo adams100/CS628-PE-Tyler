@@ -1,2 +1,2 @@
-[Create React App](!resume.png).
+![resume](resume.png).
 
