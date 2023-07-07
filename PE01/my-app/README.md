@@ -1,6 +1,6 @@
 Applicatin created using react template: create-react-app
 
-The input-process-output model involves 3 steps
+The input-process-output model involves 3 steps<br><br>
 INPUT<br>
 Input is provided to the application in a raw form, also referred to as a program requirement.<br><br>
 
