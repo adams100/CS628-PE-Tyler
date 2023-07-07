@@ -3,7 +3,7 @@ import Resume from './Resume';
 
 
 function App() {
-    return ()
+    return (
         <div className="App">
             <Resume/>
         </div>
