@@ -1,0 +1,21 @@
+.MainDiv {
+    justify-content: center;
+    display: flex; 
+    align-items:center
+}
+
+.MovieBlock {
+    text-align: center;
+}
+h1 {
+    justify-content: center;
+    display: flex; 
+    align-items:center
+}
+
+.tile {
+    padding: 3px;
+    background-color: aliceblue;
+    margin:5px; 
+    min-width: 500px;
+}
