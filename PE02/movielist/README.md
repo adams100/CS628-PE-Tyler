@@ -10,4 +10,4 @@
 
 ![screen2](movie%20app%202.png)
 
-![screen3](movie%20app%203.png)
+![screen3](movie_app_3.png)
