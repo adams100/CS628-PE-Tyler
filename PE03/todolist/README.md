@@ -5,4 +5,5 @@
 
 # OUTPUT
   The task will continue to grow if multiple tasks are added, or it will shrink if multiple tasks are deleted
-!(image)[2023-08-06 21_43_23-React App.png]
+  
+![image](screenshot.png)
