@@ -9,7 +9,7 @@
 ![image](../screen1.png)
 
 
-![image](screen2.png)
+![image](../screen2.png)
 
 
-![image](screen3.png)
+![image](../screen3.png)
