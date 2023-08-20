@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 
 function AddCity({ onAdd }) {
     const [city, setCity] = useState({
+        id: Date.now(),
         name: '',
         country: '',
         population: ''
