@@ -6,7 +6,7 @@
 # OUTPUT
   The items on the list will grow as the user inserts them, the details page will show the country and population of the city
   
-![image](screen1.png)
+![image](../screen1.png)
 
 
 ![image](screen2.png)
