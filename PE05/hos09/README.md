@@ -7,12 +7,12 @@
 # OUTPUT
   The items on the list will grow as the user inserts them.  The user can also show details for each recipe
   
-![image]('../2023-09-03 20_11_09-React%20App.png')
+![image](../2023-09-03 20_11_09-React%20App.png)
 
 
-![image]('../2023-09-03 20_09_48-React%20App.png')
+![image](../2023-09-03 20_09_48-React%20App.png)
 
 
-![image]('../2023-09-03 20_09_29-React%20App.png')
+![image](../2023-09-03 20_09_29-React%20App.png)
 
-![image]('../2023-09-03 20_07_23-React%20App.png')
+![image](../2023-09-03 20_07_23-React%20App.png)
